@@ -1,0 +1,68 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "categoryId": "1",
+      "name": "Air Max",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-e771b.appspot.com/o/images%2F4-1607571289463104520929.jpg?alt=media&token=542a25a5-eec1-49f1-99ce-a30bc5684426",
+      "price": "36000",
+      "status": false,
+      "countInstock": 6,
+      "detail": "Xuất xứ từ Ý với những nguyên liệu chất lượng"
+    },
+    {
+      "id": "3",
+      "categoryId": "1",
+      "name": "Low Maxecs",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-e771b.appspot.com/o/images%2F1607684264-889-thumbnail-width640height480.jpg?alt=media&token=2907b440-113a-4ecd-97b6-74524b702e3c",
+      "price": "4900",
+      "detail": "Sản phẩm khá ổn"
+    },
+    {
+      "id": "cb7rz5xas",
+      "categoryId": "1",
+      "name": "Áo thu đông nữ",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-e771b.appspot.com/o/images%2F1607684264-889-thumbnail-width640height480.jpg?alt=media&token=dffcbae5-fde4-4489-af81-a0c0031f57f5",
+      "price": "4300",
+      "detail": "Sản xuất từ lông của những chú cừu đến từ Đan Mạch và sản xuất hoàn toàn thủ công."
+    },
+    {
+      "id": "c9vov967s",
+      "name": "Quần Jean 2020",
+      "price": "6500",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-e771b.appspot.com/o/images%2Fcebb166ffed9cc674ded6c246299f0f1.jpg?alt=media&token=1155bafb-9fb9-4c17-899c-a4eb54969f01",
+      "categoryId": "3",
+      "detail": "Sản phẩm khá ổn"
+    },
+    {
+      "id": "vptp4t6yh",
+      "name": "Áo thun cộc tay",
+      "price": "24000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-e771b.appspot.com/o/images%2F7f84faa067e82931f1df17f5dc35b6ad.jpg?alt=media&token=e85784b4-d303-484d-aa08-4599e546fe95",
+      "categoryId": "3",
+      "detail": "Sản phẩm đúng với ảnh"
+    },
+    {
+      "id": "qytynb4z8",
+      "name": "Nike Mid White Fade",
+      "price": "3400",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-e771b.appspot.com/o/images%2FAliExpress-%E1%BA%A3nh-b%C3%ACa.jpg?alt=media&token=028bfd39-ac6c-49dc-9770-e51199e32331",
+      "categoryId": "2",
+      "detail": "Sản phẩm dùng tốt, tương đối hợp giá"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Đồ Công Sở"
+    },
+    {
+      "id": "2",
+      "name": "Đồ  Ở Nhà"
+    },
+    {
+      "id": "3",
+      "name": "Sản Phẩm Mới"
+    }
+  ]
+}
